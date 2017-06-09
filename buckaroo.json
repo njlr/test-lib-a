@@ -2,6 +2,6 @@
   "name": "A",
   "target": "a",
   "dependencies": {
-    "git@github.com:njlr/test-lib-b.git": "*"
+    "github+njlr/test-lib-b": "*"
   }
 }
