@@ -1,1 +1,1 @@
-github.com/njlr/test-lib-b
+github.com/njlr/test-lib-b@*
